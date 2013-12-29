@@ -17,11 +17,12 @@ Tabla de contenidos:
 * [Speaking about MongoDB](Speaking%20About%20MongoDB.md)
 * [Advocate for MongoDB at Your Company](At%20Your%20Company.md)
 
-###Licencia
-Este paquete se distribuye bajo licencia [Creative Commons licence CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 ###Contenido original
 *Este contenido es una traducción de [README](README_en.md)
 
 El contenido original de este repositorio se puede encontrar en:
 [MongoDB Community Kit](https://github.com/FrancescaK/MongoDB_Community_Kit)
+
+###Licencia
+Este paquete se distribuye bajo licencia [Creative Commons licence CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
