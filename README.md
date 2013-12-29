@@ -20,4 +20,7 @@ Tabla de contenidos:
 ###Licencia
 Este paquete se distribuye bajo licencia [Creative Commons licence CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
+###Contenido original
 *Este contenido es una traducción de [README](README_en.md)
+El contenido original de este repositorio se puede encontrar en su localización original:
+[MongoDB Community Kit](https://github.com/FrancescaK/MongoDB_Community_Kit)
