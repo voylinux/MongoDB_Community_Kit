@@ -11,7 +11,7 @@ Tabla de contenidos:
 * [Contribuir al código](Contribuir%20al%20Codigo.md)
 
 
-* [Blogging](Bloguear.md)
+* [Bloguear](Bloguear.md)
   * [Blogging Best Practices](Blogging%20Best%20Practices.md)
 * [Starting a MongoDB User Group](MongoDB%20User%20Groups.md)
 * [Speaking about MongoDB](Speaking%20About%20MongoDB.md)
