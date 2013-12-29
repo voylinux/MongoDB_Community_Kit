@@ -22,5 +22,6 @@ Este paquete se distribuye bajo licencia [Creative Commons licence CC BY-NC-SA 3
 
 ###Contenido original
 *Este contenido es una traducción de [README](README_en.md)
-El contenido original de este repositorio se puede encontrar en su localización original:
+
+El contenido original de este repositorio se puede encontrar en:
 [MongoDB Community Kit](https://github.com/FrancescaK/MongoDB_Community_Kit)
