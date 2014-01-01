@@ -12,7 +12,7 @@ Tabla de contenidos:
 
 
 * [Bloguear](Bloguear.md)
-  * [Blogging Best Practices](Blogging%20Best%20Practices.md)
+  * [Buenas prácticas para blogging](Buenas practicas para blogging.md)
 * [Starting a MongoDB User Group](MongoDB%20User%20Groups.md)
 * [Speaking about MongoDB](Speaking%20About%20MongoDB.md)
 * [Advocate for MongoDB at Your Company](At%20Your%20Company.md)
