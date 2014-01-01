@@ -19,8 +19,8 @@ Tabla de contenidos:
 
 
 ###Contenido original
-*Este contenido es una traducción de [README](README_en.md)
 
+Este texto es una traducción del original de Manual de la Comunidad de MongoDB.
 El contenido original de este repositorio se puede encontrar en:
 [MongoDB Community Kit](https://github.com/FrancescaK/MongoDB_Community_Kit)
 
