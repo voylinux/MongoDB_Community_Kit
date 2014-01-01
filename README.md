@@ -9,8 +9,6 @@ Tabla de contenidos:
 * [Carta al promotor: Bienvenido al Kit de Desarrollador Promotor](Una%20carta%20al%20promotor.md)
 * [Contribuir a la documentación](Contribuir%20a%20la%20documentaci%C3%B3n.md)
 * [Contribuir al código](Contribuir%20al%20Codigo.md)
-
-
 * [Bloguear](Bloguear.md)
   * [Buenas prácticas para blogging](Buenas practicas para blogging.md)
 * [Starting a MongoDB User Group](MongoDB%20User%20Groups.md)
@@ -21,6 +19,7 @@ Tabla de contenidos:
 ###Contenido original
 
 Este texto es una traducción del original de Manual de la Comunidad de MongoDB.
+
 El contenido original de este repositorio se puede encontrar en:
 [MongoDB Community Kit](https://github.com/FrancescaK/MongoDB_Community_Kit)
 
