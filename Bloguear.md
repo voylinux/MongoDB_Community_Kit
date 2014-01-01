@@ -22,7 +22,7 @@ _Hacker News_: Entrar en la página principal de Hacker News, definitivamente at
 _El Blog de tu empresa_: Muchas grandes compañías tienen blogs técnicos donde publican artículos sobre las tecnologías subyacentes que utilizan en su negocio. ( vease [foursquare](http://engineering.foursquare.com/) and [Server Density](https://blog.serverdensity.com/) ). Estos blogs son una magnífica manera de obtener visibilidad para tu empresa en la comunidad de desarrolladores.
 
 ###Compartir tu contenido
-Hay varios canales sociales que puedes utilizar para compartir tu contenido, listado en nuestra [sección de buenas prácticas para blogging](Buenas prácticas para blogging.md).
+Hay varios canales sociales que puedes utilizar para compartir tu contenido, listado en nuestra [sección de buenas prácticas para blogging](Buenas practicas para blogging.md).
 
 ###Planet MongoDB: 
 [Planet MongoDB](http://planet.mongodb.org/) es un agregador de noticias de MongoDB. Es el lugar al que acudir para obtener el último contenido sobre MongoDB. El equipo de la comunidad de MongoDB controla los bloggers que son agregados a Planet MongoDB.
