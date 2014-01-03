@@ -11,7 +11,7 @@ Tabla de contenidos:
 * [Contribuir al código](Contribuir%20al%20Codigo.md)
 * [Bloguear](Bloguear.md)
   * [Buenas prácticas para blogging](Buenas practicas para blogging.md)
-* [Starting a MongoDB User Group](MongoDB%20User%20Groups.md)
+* [Comenzar un Grupo de Usuarios de MongoDB](Grupos de Usuarios de MongoDB.md)
 * [Speaking about MongoDB](Speaking%20About%20MongoDB.md)
 * [Advocate for MongoDB at Your Company](At%20Your%20Company.md)
 
