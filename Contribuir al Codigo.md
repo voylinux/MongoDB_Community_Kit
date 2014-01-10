@@ -42,14 +42,24 @@ Esto es lo que sucede cuando envías un pull request:
 ####Buenas prácticas
 
 * Nunca introduzcas cambios que rompan cambios anteriores
-* Escribe documentación inline (comentarios) para que los mantenedores del proyecto y otros puedna entender tu código.
-* Escribe tests y asegurate de que pasan.
-* Asegúrate de que tu código no rompe ninguno de los tests exisentes.
+* Escribe documentación inline (comentarios) para que los mantenedores del proyecto y otros puedan entender tu código.
+* Escribe tests y asegúrate de que pasan.
+* Asegúrate de que tu código no rompe ninguno de los tests existentes.
 * Revisa la licencia del proyecto. Para contribuir al MongoDB Server, debes firmar el [acuerdo de contribución](http://www.mongodb.com/legal/contributor-agreement).
-* Añadete a la lista de contribuidores. La mayoría de los proyectos tiene una [lista de contribuidores](https://github.com/mongodb/mongo-hadoop#contributors) en su README de Github. Una vez que tu parche haya sido aceptado, añadete a la lista.
-* Lee las guias de contribución para cada proyecto. Estas se pueden econtrar en el repositorio de cada driver y pueden ser diferentes entre proyectos. Lee también la [lista completa de proyectos de drivers](http://docs.mongodb.org/ecosystem/drivers/).
+* Añádete a la lista de contribuidores. La mayoría de los proyectos tiene una [lista de contribuidores](https://github.com/mongodb/mongo-hadoop#contributors) en su README de Github. Una vez que tu parche haya sido aceptado, añádete a la lista.
+* Lee las guias de contribución para cada proyecto. Estas se pueden encontrar en el repositorio de cada driver y pueden ser diferentes entre proyectos. Lee también la [lista completa de proyectos de drivers](http://docs.mongodb.org/ecosystem/drivers/).
 * Muestra tu logro [solictando una camiseta de contribuidor](http://www.mongodb.com/swag) una vez que tu primer parche haya sido acabado.  
 
-Si necesitas ayuda o consejo, las listas de correo de [MongoDB-user](https://groups.google.com/forum/#!forum/mongodb-user) y [MongoDB-dev](https://groups.google.com/forum/#!forum/mongodb-dev) son extremadamente activas y ambas son un buen lugar para preguntar o aprender de las experiencias de los demás.   MongoDB-user es para usuarios creando aplicaciones con MongoDB, mientras que MongoDB-dev es más utilizada por los que contribuyen a la base de datos o crean herramientas de terceros. Asegúrate también de comprobar el canal de IRC #mongodb en Freenode, o etiqueta tu pregunta con mongodb en [Stack Overflow](http://stackoverflow.com/questions/tagged/mongodb). Si puedes responder preguntas de otros usuarios en alguno de estos sitios, sientete libre de participar.
+Si necesitas ayuda o consejo, las listas de correo de [MongoDB-user](https://groups.google.com/forum/#!forum/mongodb-user) y [MongoDB-dev](https://groups.google.com/forum/#!forum/mongodb-dev) son extremadamente activas y ambas son un buen lugar para preguntar o aprender de las experiencias de los demás.   MongoDB-user es para usuarios creando aplicaciones con MongoDB, mientras que MongoDB-dev es más utilizada por los que contribuyen a la base de datos o crean herramientas de terceros. Asegúrate también de comprobar el canal de IRC #mongodb en Freenode, o etiqueta tu pregunta con mongodb en [Stack Overflow](http://stackoverflow.com/questions/tagged/mongodb). Si puedes responder preguntas de otros usuarios en alguno de estos sitios, siéntete libre de participar.
 
-Recuerda siempre: MonogoDB se desarrolla en apertura. El código fuente puede amenudo ser la mejor manera de entender cómo funciona.
+Recuerda siempre: MonogoDB se desarrolla en apertura. El código fuente puede a menudo ser la mejor manera de entender cómo funciona.
+
+###Contenido original
+
+Este texto es una traducción del original de Manual de la Comunidad de MongoDB.
+
+El contenido original de este repositorio se puede encontrar en:
+[MongoDB Community Kit](https://github.com/FrancescaK/MongoDB_Community_Kit)
+
+###Licencia
+Este paquete se distribuye bajo licencia [Creative Commons licence CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)

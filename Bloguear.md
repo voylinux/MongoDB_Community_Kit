@@ -6,7 +6,7 @@ Bloguear es una manera increíble de compartir tu conocimiento y experiencias co
 =======
 ###Difunde la palabra.
 
-Una vez que hayas escrito tu post, necesitas construir una audiencia. Hay muchas maneras de conseguir que la gente lea y siga tu blog. Al comenzar a crear audiencia, recuerda que la calidad es tan importante como la cantidad. Tus primeros lectores son críticos. Cuando tu audiencia comenta, responde y agradeceles su participación. Y recuerda, si alguien deja un comentario negativo, permanece tan respetuoso, positivo y productivo en tu respuesta como sea posible.
+Una vez que hayas escrito tu post, necesitas construir una audiencia. Hay muchas maneras de conseguir que la gente lea y siga tu blog. Al comenzar a crear audiencia, recuerda que la calidad es tan importante como la cantidad. Tus primeros lectores son críticos. Cuando tu audiencia comenta, responde y agradéceles su participación. Y recuerda, si alguien deja un comentario negativo, permanece tan respetuoso, positivo y productivo en tu respuesta como sea posible.
 
 
 ###Dónde puedes publicar
@@ -19,7 +19,7 @@ _Social media_:Las redes social son, obviamente, un canal extremadamente efectiv
 
 _Hacker News_: Entrar en la página principal de Hacker News, definitivamente atraerá tráfico a tu blog. Debes estar preparado para responder a comentarios (tanto críticos como alentadores). En Hacker News tienes que conseguir votos.
 
-_El Blog de tu empresa_: Muchas grandes compañías tienen blogs técnicos donde publican artículos sobre las tecnologías subyacentes que utilizan en su negocio. ( vease [foursquare](http://engineering.foursquare.com/) and [Server Density](https://blog.serverdensity.com/) ). Estos blogs son una magnífica manera de obtener visibilidad para tu empresa en la comunidad de desarrolladores.
+_El Blog de tu empresa_: Muchas grandes compañías tienen blogs técnicos donde publican artículos sobre las tecnologías subyacentes que utilizan en su negocio. ( véase [foursquare](http://engineering.foursquare.com/) and [Server Density](https://blog.serverdensity.com/) ). Estos blogs son una magnífica manera de obtener visibilidad para tu empresa en la comunidad de desarrolladores.
 
 ###Compartir tu contenido
 Hay varios canales sociales que puedes utilizar para compartir tu contenido, listado en nuestra [sección de buenas prácticas para blogging](Buenas practicas para blogging.md).
@@ -35,5 +35,15 @@ Hay varios canales sociales que puedes utilizar para compartir tu contenido, lis
 ¿Quieres ser añadido?. Es sencillo. [Ponte en contacto](mailto:meetups@mongodb.com) y envía la siguiente información: 
 * Nombre
 * Blog 
-* RSS (si escribes osbre contenido que no sea sobre MongoDb, envía una url de un feed específico sobre MongoDB)
+* RSS (si escribes sobre contenido que no sea sobre MongoDb, envía una url de un feed específico sobre MongoDB)
 * Por qué deberías estar en Planet MongoDB
+
+###Contenido original
+
+Este texto es una traducción del original de Manual de la Comunidad de MongoDB.
+
+El contenido original de este repositorio se puede encontrar en:
+[MongoDB Community Kit](https://github.com/FrancescaK/MongoDB_Community_Kit)
+
+###Licencia
+Este paquete se distribuye bajo licencia [Creative Commons licence CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
