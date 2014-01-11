@@ -18,3 +18,13 @@ Estamos deseando ayudarte en el proceso.
 Mucha suerte, 
 
 The MongoDB Community Team
+
+###Contenido original
+
+Este texto es una traducción del original de Manual de la Comunidad de MongoDB.
+
+El contenido original de este repositorio se puede encontrar en:
+[MongoDB Community Kit](https://github.com/FrancescaK/MongoDB_Community_Kit)
+
+###Licencia
+Este paquete se distribuye bajo licencia [Creative Commons licence CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)

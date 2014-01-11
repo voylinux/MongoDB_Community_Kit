@@ -17,3 +17,13 @@ Para más información sobre el proceso de documentación de MongoDB, lee:
 * [Creación y despliegue de la documentación de MongoDB](http://docs.mongodb.org/manual/meta/build/)
 
 Si tienes alguna pregunta sobre la documentación, siéntete libre de [abrir un Caso de Jira en el proyecto de la documentación](https://jira.mongodb.org/browse/DOCS).
+
+###Contenido original
+
+Este texto es una traducción del original de Manual de la Comunidad de MongoDB.
+
+El contenido original de este repositorio se puede encontrar en:
+[MongoDB Community Kit](https://github.com/FrancescaK/MongoDB_Community_Kit)
+
+###Licencia
+Este paquete se distribuye bajo licencia [Creative Commons licence CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)

@@ -26,7 +26,7 @@ Antes de enviar un pull request al MongoDB Server, por favor completa los pasos 
 * Lee las [directrices de contribución](http://www.mongodb.org/about/contributors/). En particular, deberías asegurarte de que tus cambios se adhieren a las reglas de Reglas de Desarrollo del Kernel de MongoDB incluyendo estilo de código, manejo de excepciones, loggin y tests.
 * Identifica un [Server ticket](https://jira.mongodb.org/browse/SERVER), o crea un nuevo ticket para tu pull request en el proyecto del Server.
 Por favor, incluye una referencia al [SERVER ticket](https://jira.mongodb.org/browse/SERVER) en el título del pull request (eg: "SERVER-1234: Add $foo operator to Aggregation framework").
-* Asegurate de que tu solicitud de código es específica para los cámbios de un solo issue en Jira. Si has hecho múltiples commits, sería preferible [unificarlos](http://git-scm.com/book/en/Git-Tools-Rewriting-History#Squashing-Commits) en un solo commit antes de enviar la solicitud. Si tu cámbio soluciona varios issues de Jira, divídelos entre múltiples pull requests o incluye algún detalle sobre por qué no ha sido possible.
+* Asegurate de que tu solicitud de código es específica para los cámbios de un solo issue en Jira. Si has hecho múltiples commits, sería preferible [unificarlos](http://git-scm.com/book/en/Git-Tools-Rewriting-History#Squashing-Commits) en un solo commit antes de enviar la solicitud. Si tu cámbio soluciona varios issues de Jira, divídelos entre múltiples pull requests o incluye algún detalle sobre por qué no ha sido posible.
 * Firma el [Acuerdo de contribución de MongoDB](http://www.mongodb.com/legal/contributor-agreement).
 
 
@@ -46,7 +46,7 @@ Esto es lo que sucede cuando envías un pull request:
 * Escribe tests y asegúrate de que pasan.
 * Asegúrate de que tu código no rompe ninguno de los tests existentes.
 * Revisa la licencia del proyecto. Para contribuir al MongoDB Server, debes firmar el [acuerdo de contribución](http://www.mongodb.com/legal/contributor-agreement).
-* Añádete a la lista de contribuidores. La mayoría de los proyectos tiene una [lista de contribuidores](https://github.com/mongodb/mongo-hadoop#contributors) en su README de Github. Una vez que tu parche haya sido aceptado, añádete a la lista.
+* Añadete a la lista de contribuidores. La mayoría de los proyectos tiene una [lista de contribuidores](https://github.com/mongodb/mongo-hadoop#contributors) en su README de Github. Una vez que tu parche haya sido aceptado, añadete a la lista.
 * Lee las guias de contribución para cada proyecto. Estas se pueden encontrar en el repositorio de cada driver y pueden ser diferentes entre proyectos. Lee también la [lista completa de proyectos de drivers](http://docs.mongodb.org/ecosystem/drivers/).
 * Muestra tu logro [solictando una camiseta de contribuidor](http://www.mongodb.com/swag) una vez que tu primer parche haya sido acabado.  
 

@@ -77,3 +77,13 @@ Las presentaciones llegan a miles de usuarios de todo el mundo. Aquí hay alguno
 * Lleva tu presentación en un USB. Por si acaso.
 * Conectividad de internet: En algunos lugares, la conexión wifi puede ser poco fiable. Para evitar cualquier situación dolorosa con la wifi, intenta que algunas demos de tu presentación estén disponibles offline.
 * Invita a tus amigos. Siempre es divertido llevar a amigos, familia y compañeros de trabajo a un grupo de usuarios. Pero asegúrate de comprobarlo con los organizadores para estar seguros de que el lugar de la reunión tiene capacidad suficiente.
+
+###Contenido original
+
+Este texto es una traducción del original de Manual de la Comunidad de MongoDB.
+
+El contenido original de este repositorio se puede encontrar en:
+[MongoDB Community Kit](https://github.com/FrancescaK/MongoDB_Community_Kit)
+
+###Licencia
+Este paquete se distribuye bajo licencia [Creative Commons licence CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)

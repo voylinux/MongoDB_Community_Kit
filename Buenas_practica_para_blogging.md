@@ -23,16 +23,26 @@ _Escribe series_ Las series de blogs son una gran manera de crear impulso en tu 
 
 ###Cómo generar ideas
 
-A veces puede ser dificil saber por dónde empezar en lo que se refiere a bloguear. A veces pensamos que nuestro día a día no debe ser publicable. Nuestras experiencias -- especialmente en el contexto del software open sourece -- pueden ser increíblemente valiosas si se comparten. A veces, lo que puede parecer una tarea mundana para tí, es de hecho una información muy valiosa para un nuevo usuario de MongoDB.
+A veces puede ser difícil saber por dónde empezar en lo que se refiere a bloguear. A veces pensamos que nuestro día a día no debe ser publicable. Nuestras experiencias -- especialmente en el contexto del software open source -- pueden ser increíblemente valiosas si se comparten. A veces, lo que puede parecer una tarea mundana para tí, es de hecho una información muy valiosa para un nuevo usuario de MongoDB.
 
 Aquí tienes algunas maneras de generar nuevas ideas para bloguear sobre MongoDB:
 
 * Describe un problema que hayas resuelto recientemente y la manera en que lo hiciste
-* Explica cómo diseñaste tu aplicación MongoDB y los intercámbios que hiciste.
-* ¿Qué querias saber cuando estabas empezando?. Escribe un post enfocado en esa materia.
+* Explica cómo diseñaste tu aplicación MongoDB y los intercambios que hiciste.
+* ¿Qué querías saber cuando estabas empezando?. Escribe un post enfocado en esa materia.
 * ¿Cómo ha evolucionado tu aplicación con el tiempo? ¿Cómo ha crecido y escalado?.
 * Mucha gente está migrando aplicaciones desde bases de datos relacionales o viviendo en un contexto híbrido. ¿Cuales son los patrones típos de migración?.
 * ¿Cuales son las herramientas y librerías open source en las que te apoyas?
 * ¿Has escrito una herramienta open source que quieras mostrar?. Un blog es una gran manera de obtener usuarios y colaboradores.
 * Escribe un tutorial de cómo usar MongoDB con un lenguaje específico, framework o herramienta open source.
 * Transforma conferencias o encuentros en posts o publica tus slides en tu blog con resúmenes cortos.
+
+###Contenido original
+
+Este texto es una traducción del original de Manual de la Comunidad de MongoDB.
+
+El contenido original de este repositorio se puede encontrar en:
+[MongoDB Community Kit](https://github.com/FrancescaK/MongoDB_Community_Kit)
+
+###Licencia
+Este paquete se distribuye bajo licencia [Creative Commons licence CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)

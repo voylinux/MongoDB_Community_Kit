@@ -6,14 +6,14 @@ open-source.
 
 Tabla de contenidos:
 
-* [Carta al promotor: Bienvenido al Kit de Desarrollador Promotor](Una%20carta%20al%20promotor.md)
-* [Contribuir a la documentación](Contribuir%20a%20la%20documentaci%C3%B3n.md)
-* [Contribuir al código](Contribuir%20al%20Codigo.md)
+* [Carta al promotor: Bienvenido al Kit de Desarrollador Promotor](Una_carta_al_promotor.md)
+* [Contribuir a la documentación](Contribuir_a_la_documentacion.md)
+* [Contribuir al código](Contribuir_al_Codigo.md)
 * [Bloguear](Bloguear.md)
-  * [Buenas prácticas para blogging](Buenas practicas para blogging.md)
-* [Comenzar un Grupo de Usuarios de MongoDB](Grupos de usuarios de MongoDB.md)
-* [Hablar sobre MongoDB](Hablar sobre MongoDB.md)
-* [Advocate for MongoDB at Your Company](En tu empresa.md)
+  * [Buenas prácticas para blogging](Buenas_practicas_para_blogging.md)
+* [Comenzar un Grupo de Usuarios de MongoDB](Grupos_de_usuarios_de_MongoDB.md)
+* [Hablar sobre MongoDB](Hablar_sobre_MongoDB.md)
+* [Advocate for MongoDB at Your Company](En_tu_empresa.md)
 
 
 ###Contenido original

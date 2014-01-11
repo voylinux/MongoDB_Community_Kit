@@ -83,3 +83,13 @@ A veces las presentaciones no son lo ideal para tu grupo y la gente prefiere ten
 
 ####¿Otras preocupaciones?
 Mantente siempre en comunicación con tu contacto en MongoDB. Nuesto equipo de la comunidad siempre se alegra de ayudar con cualquier cosa que necesites para hacer despegar tu grupo de usuarios. Estamos en el negocio de hacer triunfar a la gente y estamos desenado ayudarte a contruir una comunidad vibrante de MongoDB.
+
+###Contenido original
+
+Este texto es una traducción del original de Manual de la Comunidad de MongoDB.
+
+El contenido original de este repositorio se puede encontrar en:
+[MongoDB Community Kit](https://github.com/FrancescaK/MongoDB_Community_Kit)
+
+###Licencia
+Este paquete se distribuye bajo licencia [Creative Commons licence CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)

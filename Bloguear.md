@@ -19,7 +19,7 @@ _Social media_:Las redes social son, obviamente, un canal extremadamente efectiv
 
 _Hacker News_: Entrar en la página principal de Hacker News, definitivamente atraerá tráfico a tu blog. Debes estar preparado para responder a comentarios (tanto críticos como alentadores). En Hacker News tienes que conseguir votos.
 
-_El Blog de tu empresa_: Muchas grandes compañías tienen blogs técnicos donde publican artículos sobre las tecnologías subyacentes que utilizan en su negocio. ( véase [foursquare](http://engineering.foursquare.com/) and [Server Density](https://blog.serverdensity.com/) ). Estos blogs son una magnífica manera de obtener visibilidad para tu empresa en la comunidad de desarrolladores.
+_El Blog de tu empresa_: Muchas grandes compañías tienen blogs técnicos donde publican artículos sobre las tecnologías subyacentes que utilizan en su negocio. ( véase [foursquare](http://engineering.foursquare.com/) y [Server Density](https://blog.serverdensity.com/) ). Estos blogs son una magnífica manera de obtener visibilidad para tu empresa en la comunidad de desarrolladores.
 
 ###Compartir tu contenido
 Hay varios canales sociales que puedes utilizar para compartir tu contenido, listado en nuestra [sección de buenas prácticas para blogging](Buenas practicas para blogging.md).
