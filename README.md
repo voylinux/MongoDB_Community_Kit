@@ -13,7 +13,7 @@ Tabla de contenidos:
   * [Buenas prácticas para blogging](Buenas_practicas_para_blogging.md)
 * [Comenzar un Grupo de Usuarios de MongoDB](Grupos_de_usuarios_de_MongoDB.md)
 * [Hablar sobre MongoDB](Hablar_sobre_MongoDB.md)
-* [Advocate for MongoDB at Your Company](En_tu_empresa.md)
+* [Recomendar MongoDB en tu empresa](En_tu_empresa.md)
 
 
 ###Contenido original
