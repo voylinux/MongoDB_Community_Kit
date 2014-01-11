@@ -8,7 +8,7 @@ Tabla de contenidos:
 
 * [Carta al promotor: Bienvenido al Kit de Desarrollador Promotor](Una_carta_al_promotor.md)
 * [Contribuir a la documentación](Contribuir_a_la_documentacion.md)
-* [Contribuir al código](Contribuir_al_Codigo.md)
+* [Contribuir al código](Contribuir_al_codigo.md)
 * [Bloguear](Bloguear.md)
   * [Buenas prácticas para blogging](Buenas_practicas_para_blogging.md)
 * [Comenzar un Grupo de Usuarios de MongoDB](Grupos_de_usuarios_de_MongoDB.md)
